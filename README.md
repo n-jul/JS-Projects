@@ -1,1 +1,1 @@
-# JS-Projects
+# Hello this repository contains javascript projects. This will help you to learn javascript in a more handy way. Make sure to try to create these projects by yourself before looking at the solutions.
